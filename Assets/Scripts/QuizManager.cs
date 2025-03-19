@@ -7,6 +7,7 @@ using System.Collections.Generic;
 
 public class QuizManager : MonoBehaviour
 {
+    //Тестируем
    public TextMeshProUGUI questionText; // Текст для отображения вопроса
     public TextMeshProUGUI remainingQuestionsText; // Текст для отображения оставшихся вопросов
     public TextMeshProUGUI scoreText; // Текст для отображения количества правильных ответов
